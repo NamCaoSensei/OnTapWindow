@@ -6,7 +6,7 @@ Markdown
 - **Mã số sinh viên:** 24810310617
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** [Bài 1: Máy tính tính cước dịch vụ & Giảm giá (Service Charge Calculator)]
+- **Tên bài tập:** [Bài 3: Quản lý danh mục Vật tư / Linh kiện (Item List Manager)]
 
 ---
 
